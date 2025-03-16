@@ -1,10 +1,9 @@
 # Projekt-z-SQL
 
-Projekt 1 - Projekt z SQL
-
 Informace o projektu z SQL
 
 Zadání projektu:
+
 Na analytickém oddělení nezávislé společnosti, která se zabývá životní úrovní 
 občanů, se dohodli, že se pokusí odpovědět na pár definovaných výzkumných 
 otázek, které adresují dostupnost základních potravin široké veřejnosti. 
